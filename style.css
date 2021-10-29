@@ -1,0 +1,27 @@
+body{
+      text-align: center;
+}
+
+#heading{
+      margin-top: 3rem;
+      color: green;
+}
+
+#increment-btn{
+     width: 50px;
+     margin-right: 1rem;
+     border: 2px solid black;
+     background-color: chartreuse;
+     font-size: 30px;
+}
+
+#decrement-btn{
+      width: 50px;
+      border: 2px solid black;
+      background-color: chartreuse;
+      font-size: 30px;
+}
+#output{
+     
+      font-size: 2.5rem;
+}
